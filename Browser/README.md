@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/license-MIT-green)  ![](https://img.shields.io/badge/version-1.50-red)
 Un simple navigateur pour la system arozos https://github.com/tobychui/arozos
-简易浏览器
+简易浏览器,由开源项目改编。
 
 # INSTALLING
 # cd ~/arozos/web
