@@ -5,10 +5,10 @@
 #目前存在的bug是访问网页后跳转链接就会自动跳到新窗口，无法保持在该浏览器内。
 #哪位知道怎么改进请私聊，谢谢。
 
-#Installation
-#cd ~/arozos/web
-#git clone https://github.com/000336/Browser.git
-#sudo reboot
+#Installation/
+#cd ~/arozos/web/
+#git clone https://github.com/000336/Browser.git/
+#sudo reboot/
 
 改写自
 # 在线地址
