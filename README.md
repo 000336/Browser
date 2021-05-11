@@ -1,20 +1,16 @@
 ![](https://img.shields.io/badge/license-MIT-green)  ![](https://img.shields.io/badge/version-1.50-red)
 
-## quarkHomePage
-H5仿夸克浏览器主页
-![](https://ae01.alicdn.com/kf/H244bb0ca385f4109a1c9d11d4a8be564O.jpg)
-# 更新计划
-1. 搜索历史
-2. 壁纸库
-3. 夜间模式
-4. 可以添加预设书签
-# 图标来源
-* Pure轻雨图标包
+#Un simple navigateur pour la system arozos https://github.com/tobychui/arozos
+#简单浏览器
+#目前存在的bug是访问网页后跳转链接就会自动跳到新窗口，无法保持在该浏览器内。
+#哪位知道怎么改进请私聊，谢谢。
+
+#Installation
+#cd ~/arozos/web
+#git clone https://github.com/000336/Browser.git
+#sudo reboot
+
+改写自
 # 在线地址
 [https://liumingye.gitee.io/quarkhomepage/](https://liumingye.gitee.io/quarkhomepage/)
-# 感谢开源项目
-* jquery
-* sortablejs
-* Swiper
-* TouchSwipe
-* requirejs
+
