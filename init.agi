@@ -1,0 +1,18 @@
+/*
+	Browser pour Arozos
+*/
+
+//Define the launchInfo for the module
+var moduleLaunchInfo = {
+    Name: "Browser",
+	Group: "Internet",
+	IconPath: "Browser/icon.jpg",
+	Version: "1.0",
+	StartDir: "Browser/index.html",
+	SupportFW: true,
+	LaunchFWDir: "Browser/index.html",
+	InitFWSize: [1150, 640],
+}
+
+
+registerModule(JSON.stringify(moduleLaunchInfo));
